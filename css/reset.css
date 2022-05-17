@@ -3,14 +3,13 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Mulish', sans-serif;
-
 }
 
-a {
+a{
     text-decoration: none;
-    color: white;
+    color: #fff;
 }
 
-ul {
+ul{
     list-style: none;
 }
